@@ -10,7 +10,6 @@ The following permissions are included in this lighthouse offer.
 | ALH - Managed Azure Engineers                 | Reader                                               | Permanent   | -            | -     | -                              |
 | ALH - Managed Azure Engineers                 | Managed Services Registration Assignment Delete Role | Permanent   | -            | -     | -                              |
 | ALH - Managed Azure Services                  | Reader                                               | Permanent   | -            | -     | 
--                              |
 # Deploy to Azure 
 
 Use the below button to deploy this Azure Lighthouse offer to a tenant.
